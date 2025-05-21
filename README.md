@@ -5,7 +5,7 @@ This is a Node.js and Express-based REST API for managing IPL players with Mongo
 
 ## 🚀 Base URL
 ```
-http://localhost:3000/api
+https://ipl-management.onrender.com/api
 ```
 
 ---
@@ -183,4 +183,3 @@ http://localhost:3000/api
 2. Run `npm install`
 3. Add a `.env` file with your MongoDB URI and PORT
 4. Run `npm start`
-"# Ipl-Management" 
